@@ -58,3 +58,34 @@ footer(option)
 - `fixes`: Identifies the issue that gets resolved by the commit.
 - `resolves`: Another way to identify issue resolution.
 - `ref`: Indicates additional context or resources.
+
+## Code Review Conventions 🕵️
+
+Code reviews are a vital part of our development process, ensuring high-quality code and promoting collaborative learning. Here are our conventions for conducting effective code reviews:
+
+- **Be Respectful**: Offer feedback in a kind, constructive manner. Remember that the goal is to improve the code while fostering a positive team environment.
+- **Be Specific**: Refer to specific lines of code where changes are suggested. Provide context and reasoning behind your suggestions to make them more actionable.
+- **Ask Questions**: Instead of dictating changes, ask clarifying questions to understand the developer's perspective. This approach can lead to insightful discussions and more informed decisions.
+- **Provide Examples**: When suggesting changes, include code snippets or links to relevant resources to illustrate your points clearly.
+- **Respond Promptly**: Aim to review pull requests within a designated time frame (e.g., 24-48 hours). Prompt feedback keeps the development process moving and demonstrates respect for your colleagues' time.
+- **Check for Consistency**: Ensure that the code adheres to the project's coding standards and conventions. Consistency is key to maintainability and readability.
+- **Test Locally**: If possible, test the changes locally to verify that they behave as expected. This can prevent potential issues from being merged into the main branch.
+- **Acknowledge Good Work**: Positive reinforcement is as important as constructive feedback. Recognize and commend good practices and solutions in the code review process.
+
+### Key Abbreviations
+
+- `NIT`: Suggests a minor change that could improve the code but isn't mandatory.
+- `LGTM` (👍): "Looks Good To Me" indicates approval of the changes.
+- `ACK` (👌): "Acknowledgment", often used to signify agreement or approval.
+- `NACK`/`NAK` (🚫): "Negative Acknowledgement", used to show disapproval or to reject changes.
+- `RFC` (💬): "Request For Comments" invites others to provide feedback.
+- `WIP` (🚧): "Work In Progress" indicates that the work is not yet complete.
+- `AFAIK`/`AFAICT` (🤔): "As Far As I Know" / "As Far As I Can Tell".
+- `IIRC` (🧠): "If I Recall Correctly".
+- `IANAL` (⚖️): "I Am Not A Lawyer", used to clarify that an opinion is not legal advice.
+- `IMO`/`IMHO` (🤷): "In My Opinion" / "In My Humble Opinion".
+- `FYI` (ℹ️): "For Your Information".
+- `PTAL` (🔍): "Please Take A Look".
+- `SSIA` (📌): "Subject Says It All".
+- `TBD` (🤷‍♂️): "To Be Determined".
+- `TL;DR` (📝): "Too Long; Didn't Read", often used to summarize lengthy content.
