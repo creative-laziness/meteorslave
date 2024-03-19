@@ -1,0 +1,6 @@
+[workspace]
+members = ["gateway", "lib", "services/auth"]
+resolver = "2"
+
+[profile.release]
+opt-level = 3
