@@ -45,14 +45,16 @@ footer(option)
 - 🚑 `!HOTFIX`: A critical bug fix requiring immediate attention.
 - 🔄 `style`: Cosmetic changes related to code formatting or comments.
 - ♻️ `refactor`: Code changes that neither fix a bug nor add a feature.
-- 🚀 `perf`: Performance improvements.
+- ⚗️ `perf`: Performance improvements.
 - 📝 `docs`: Documentation updates or improvements.
 - ✅ `test`: Adding or updating tests.
 - 🧹 `chore`: Maintenance tasks that don't modify src or test files.
 - 🔀 `rename`: Renaming files, variables, or functions.
-- 🗑️ `remove`: Removing code, files, or functionalities.
-- ➕ `add`: Adding new files or code sections.
-
+- 🔥 `remove`: Removing code, files, or functionalities.
+- ➕ `add`: Adding new dependencies.
+- 🔖 `release`: Release or add version tags.
+- 🚀 `deploy`: Deploy :)
+  
 ### Footer
 
 - `fixes`: Identifies the issue that gets resolved by the commit.
